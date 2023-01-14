@@ -11,3 +11,18 @@
 #### python版本
 3.8.3 (default, Jul  2 2020, 17:30:36) [MSC v.1916 64 bit (AMD64)]
 #### 所使用的包及其版本
+pandas,version 1.5.2
+
+plotnine,version 0.10.1
+
+numpy,version 1.23.4
+
+scikit-learn,version 0.23.1
+
+pyecharts,version 2.0.1
+
+matplotlib,version 3.6.1
+
+statsmodels,version 0.13.2
+
+处理器	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
